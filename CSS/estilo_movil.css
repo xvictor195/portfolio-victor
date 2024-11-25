@@ -1,0 +1,13 @@
+@media (max-width: 700px) {
+    .container{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: space-evenly;
+        width: 99dvw;
+        align-items: center;
+    }
+    .tarjeta{
+        width: 70%;
+        margin-bottom: 2rem;
+    }
+}
